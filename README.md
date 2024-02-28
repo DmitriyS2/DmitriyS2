@@ -10,21 +10,21 @@
 
 Сертификаты Нетологии:
 
- [Свидетельство об обучении](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate.pdf)
+ [Свидетельство об обучении](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate.jpg)
 
-[Котлин](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin.pdf)
+[Котлин](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin.jpg)
 
-[Котлин под Андроид](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Android.pdf)
+[Котлин под Андроид](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Android.jpg)
 
-[Котлин (промышленная разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Industrial%20Android.pdf)
+[Котлин (промышленная разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Industrial%20Android.jpg)
 
-[Котлин (продвинутая разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Advance%20Android.pdf)
+[Котлин (продвинутая разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Advance%20Android.jpg)
 
-[Java (основы)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java_base.pdf)
+[Java (основы)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java%20base.jpg)
 
 [Java (ООП)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java_OOP.pdf)
 
-[Git](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Git.pdf)
+[Git](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Git.jpg)
 
 
 Сертификаты STEPIK:
