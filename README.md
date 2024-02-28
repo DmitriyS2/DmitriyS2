@@ -22,7 +22,7 @@
 
 [Java (основы)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java%20base.jpg)
 
-[Java (ООП)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java_OOP.pdf)
+[Java (ООП)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java%20OOP.jpg)
 
 [Git](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Git.jpg)
 
