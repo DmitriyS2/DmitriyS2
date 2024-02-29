@@ -2,6 +2,8 @@
 
 Я Дмитрий Степанов, Андроид-разработчик
 
+[Мое портфолио](https://github.com/DmitriyS2/MyPortfolio/blob/main/README.md)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyS2&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyS2&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyS2&theme=solarized_dark)
@@ -36,6 +38,9 @@
 [Пишем свой мессенджер на основе современных технологий](https://stepik.org/cert/1458242)
 
 [Программирование на языке C#](https://stepik.org/cert/1797673)
+
+
+
 
 <!--
 **DmitriyS2/DmitriyS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
