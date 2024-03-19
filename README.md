@@ -6,9 +6,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyS2&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyS2&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyS2&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyS2&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitriyS2&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyS2&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyS2&theme=solarized_dark) 
 
 Сертификаты Нетологии:
 
