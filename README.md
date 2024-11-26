@@ -9,36 +9,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyS2&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyS2&theme=solarized_dark) 
 
-Сертификаты Нетологии:
-
- [Свидетельство об обучении](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate.jpg)
-
-[Котлин](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin.jpg)
-
-[Котлин под Андроид](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Android.jpg)
-
-[Котлин (промышленная разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Industrial%20Android.jpg)
-
-[Котлин (продвинутая разработка)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Kotlin_Advance%20Android.jpg)
-
-[Java (основы)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java%20base.jpg)
-
-[Java (ООП)](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Java%20OOP.jpg)
-
-[Git](https://github.com/DmitriyS2/DmitriyS2/blob/main/certificate_Git.jpg)
-
-
-Сертификаты STEPIK:
-
-[Разработка мобильных приложений под Андроид](https://stepik.org/cert/2120997)
-
-[Основы ООП на Java](https://stepik.org/cert/2322651)
-
-[Пишем свой мессенджер на основе современных технологий](https://stepik.org/cert/1458242)
-
-[Программирование на языке C#](https://stepik.org/cert/1797673)
-
-
 
 
 <!--
